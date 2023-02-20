@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/prince-udum/qr-code-component)
-- Live Site URL: [Add live site URL here](https://qr-component-with-htmlcss.netlify.app)
+- Solution URL: [https://github.com/prince-udum/qr-code-component](https://github.com/prince-udum/qr-code-component)
+- Live Site URL: [https://qr-component-with-htmlcss.netlify.app](https://qr-component-with-htmlcss.netlify.app)
 
 ## My process
 
@@ -52,4 +52,4 @@ main {
 ## Author
 
 - Frontend Mentor - [@prince-udum](https://www.frontendmentor.io/profile/prince-udum)
-- Twitter - [@yourusername](https://twitter.com/princeudum)
+- Twitter - [@princeudum](https://twitter.com/princeudum)
